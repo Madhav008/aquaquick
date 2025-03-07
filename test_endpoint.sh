@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # API Base URL
-BASE_URL="http://localhost:5000"
+BASE_URL="http://localhost:5101"
 AUTH_TOKEN=""  # Will store the authentication token
 USER_ID=""     # Will store the authenticated user's ID
 DELIVERY_PARTNER_ID=""  # Will store the created delivery partner ID
