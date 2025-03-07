@@ -5,7 +5,7 @@
     "database": "water_can_db",
     "host": "127.0.0.1",
     "dialect": "postgres",
-    "port": 5432
+    "port": 32768
   },
   "test": {
     "username": "postgres",
@@ -13,7 +13,7 @@
     "database": "water_can_db_test",
     "host": "127.0.0.1",
     "dialect": "postgres",
-    "port": 5432
+    "port": 32768
   },
   "production": {
     "username": "postgres",
@@ -21,6 +21,6 @@
     "database": "water_can_db_prod",
     "host": "127.0.0.1",
     "dialect": "postgres",
-    "port": 5432
+    "port": 32768
   }
 }
